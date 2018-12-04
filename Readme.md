@@ -20,10 +20,6 @@ clicar no ícone de "run"
 Só alegria... 😜😜
 ```
 
-## Authors
-
-* **Marcos Soares** - *App Satírico - [App Satírico](https://github.com/marcossaore/app-exercicio-imc)
-
 ## License
 
 This project is open-source
